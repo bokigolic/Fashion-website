@@ -175,3 +175,15 @@
   opacity: 0.5;
   height: 100%;
 }
+
+/*  offer  */
+
+.offer{
+  background-image: url("/200\ Fashion_web_img/Fashion_web_img/fashion.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.row{
+  margin: initial !important;
+}
