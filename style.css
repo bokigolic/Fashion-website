@@ -1,3 +1,4 @@
+
 *{
   margin: 0;
   padding: 0;
@@ -13,5 +14,36 @@
 .right-menu li .fa-brands {
   font-size: 18px;
   margin-right: 10px;
+  cursor: pointer;
+}
+
+.navbar-brand img{
+  width: 160px;
+}
+
+.navbar-brand{
+  left: 50%;
+  top:25px;
+  transform: translateX(-50%);
+  position: absolute;
+}
+
+.header{
+  background: #f5f6fc;
+}
+
+.navbar{
+  padding: 0 35px !important;
+}
+
+.navbar-toogler {
+  border: none !important;
+  outline: none !important;
+  padding: 0 !important;
+  margin-top: 30px; 
+}
+
+.navbar-toogler .fa{
+  font-size:  30px;
   cursor: pointer;
 }
