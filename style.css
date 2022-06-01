@@ -195,3 +195,21 @@
   background: #ffffff8c ;
   margin-bottom: 20px;
 }
+
+.subscribe a{
+  width: 100px;
+  display: block;
+  columns: #fff !important;
+  background: #000;
+  text-decoration: none;
+  padding: 5px;
+  text-align: center;
+}
+
+.offer img{
+  width: 300px;
+  height: 400px;
+  margin: -100px;
+  margin-top: 150px;
+  
+}
