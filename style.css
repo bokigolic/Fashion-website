@@ -187,3 +187,11 @@
 .row{
   margin: initial !important;
 }
+
+.subscribe{
+  max-width:500px ;
+  margin-top: 80px;
+  padding: 60px;
+  background: #ffffff8c ;
+  margin-bottom: 20px;
+}
