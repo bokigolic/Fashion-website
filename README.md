@@ -1,17 +1,18 @@
 # Fashion-website
 
-This project is a simple clothing store implemented with React and Node.js, aiming for an almost databaseless design by utilizing a Printful integration.
+This site was built using [netlify] and deployed (https://majestic-rolypoly-6ce977.netlify.app/).
+
 
 # This project is a simple website implemented with:
-## HTML
-## CSS
-## BOOTSTRAP
-## JAVA SCRIPT
+#### HTML
+#### CSS
+#### BOOTSTRAP
+#### JAVA SCRIPT
 
 # About project
 
-** A responsive design implemented with Bootstrap and customized with CSS
-** Website with multiple images 
+>A responsive design implemented with Bootstrap and customized with CSS
+>Website with multiple images 
 
 
 # Why???
@@ -21,4 +22,4 @@ This project is a hobby project. For me, this was a learning opportunity to fami
 
 # Contributing
 
-** Bojan Golic **
+***Bojan Golic***
