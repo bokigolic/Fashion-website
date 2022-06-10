@@ -1,18 +1,21 @@
 # Fashion-website
 
 This site was built using [netlify] and deployed (https://majestic-rolypoly-6ce977.netlify.app/).
+The full code is located at [GitHub](https://github.com/bokigolic/Fashion-website).
+
 
 
 # This project is a simple website implemented with:
 #### HTML
 #### CSS
 #### BOOTSTRAP
-#### JAVA SCRIPT
+
+##Image
+![Screenshot]()
 
 # About project
 
 >A responsive design implemented with Bootstrap and customized with CSS
->Website with multiple images 
 
 
 # Why???
