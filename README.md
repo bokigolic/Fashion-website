@@ -1,7 +1,7 @@
 # Fashion-website
 
-This site was built using [netlify] and deployed (https://majestic-rolypoly-6ce977.netlify.app/).
-The full code is located at [GitHub](https://github.com/bokigolic/Fashion-website).
+####This site was built using [netlify] and deployed (https://majestic-rolypoly-6ce977.netlify.app/).
+####The full code is located at [GitHub](https://github.com/bokigolic/Fashion-website).
 
 
 
@@ -10,8 +10,6 @@ The full code is located at [GitHub](https://github.com/bokigolic/Fashion-websit
 #### CSS
 #### BOOTSTRAP
 
-##Image
-![Screenshot]()
 
 # About project
 
