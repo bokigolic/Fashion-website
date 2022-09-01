@@ -10,6 +10,7 @@
 #### CSS
 #### BOOTSTRAP
 
+<img width="855" alt="Screenshot 2022-08-31 230524" src="https://user-images.githubusercontent.com/71577349/187823699-79ddaefd-e654-4a66-80e8-479d505b5032.png">
 
 # About project
 
